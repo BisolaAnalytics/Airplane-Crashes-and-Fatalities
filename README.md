@@ -1,3 +1,5 @@
+The is one of my project in data analysis training course with Quantum Analytics
+
 About Dataset 
 Airplane Crashes and Fatalities 
 This dataset showcases Boeing 707 accidents that have occurred since 1948. The data includes information on the date, time, 
@@ -11,11 +13,13 @@ This dataset is perfect for anyone interested in data visualization or analysis.
 endless possibilities for interesting stories and insights that can be gleaned from this data. 
 So whether you're a seasoned data pro or just getting started, this dataset is sure to give you plenty to work with. So get started 
 today and see what you can discover! 
+
 Research Ideas (You can use any research idea that comes to mind) 
 1. Plot a map of all flight routes 
 2. Analyze what type of aircraft is involved in the most crashes 
 3. Identify patterns in where/when crashes occur 
 4. Come up with additional 2 more ideas of yours. 
+
 Columns 
  index: the index of the row 
  Date: the date of the incident 
@@ -31,5 +35,6 @@ Columns
  Fatalities: the number of fatalities in the incident 
  Ground: the number of people on the ground killed in the incident 
  Summary: a summary of the incident 
+
 Acknowledgments 
 This dataset was obtained from the Data Society.
